@@ -1,4 +1,7 @@
-**When to use it:** Planning a household's dinners for the coming week. It checks the calendar to see how many dinners are needed, reviews saved recipes and recent plans, records a proposed plan, and sends it for feedback. Shopping is a separate step.
+---
+name: meal-planning
+description: Planning a household's dinners for the coming week. It checks the calendar to see how many dinners are needed, reviews saved recipes and recent plans, records a proposed plan, and sends it for feedback. Shopping is a separate step.
+---
 
 **1. Gather context**
 
